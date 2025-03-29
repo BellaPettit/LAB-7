@@ -6,3 +6,6 @@ Template:       twentytwentyfive
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+h1, h2, h3, h4, h5, h6 {
+    color: orange;
+}
